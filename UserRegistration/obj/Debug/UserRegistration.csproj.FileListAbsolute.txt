@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.exe.config
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.exe
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.pdb
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Form1.resources
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Form2.resources
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Properties.Resources.resources
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.exe
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\Asus\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Form3.resources
